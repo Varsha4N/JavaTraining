@@ -1,1 +1,6 @@
-day 1
+day 1 : Introduction to Java programming language
+- History of Java
+- Java Virtual Machine (JVM)
+- Java Development Kit (JDK)
+- Installing JDK and setting up the environment
+- First Java program
