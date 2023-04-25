@@ -1,0 +1,7 @@
+day3: Object-oriented programming in Java
+
+- Classes and objects
+- Constructors
+- Access modifiers
+- Inheritance
+- Polymorphism
