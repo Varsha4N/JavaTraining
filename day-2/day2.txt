@@ -1,1 +1,7 @@
-day2
+day2: Java basics
+
+- Variables and data types
+- Operators
+- Control structures
+- Arrays
+- Strings
