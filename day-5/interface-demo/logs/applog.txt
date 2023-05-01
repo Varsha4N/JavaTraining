@@ -1,0 +1,9 @@
+[TRACE] 2023-05-01 15:50:15,058 main            com.targetindia.programs.InterfaceDemo [  13] Got the object of type com.targetindia.model.Circle
+[TRACE] 2023-05-01 15:50:15,063 main            com.targetindia.model.Circle [  19] Calculating the area of a circle as 478.384456692
+[TRACE] 2023-05-01 15:50:15,063 main            com.targetindia.programs.InterfaceDemo [  14] Area of this type is  478.384456692 square units
+[TRACE] 2023-05-01 15:50:15,063 main            com.targetindia.model.Circle [  26] Calculating the parameter of a circle as 77.5339476
+[TRACE] 2023-05-01 15:50:15,064 main            com.targetindia.programs.InterfaceDemo [  15] Perimeter of this type is  77.5339476 square units
+[TRACE] 2023-05-01 15:50:15,064 main            com.targetindia.programs.InterfaceDemo [  13] Got the object of type com.targetindia.model.Rectangle
+[TRACE] 2023-05-01 15:50:15,064 main            com.targetindia.model.Rectangle [  20] Calculating the area of a rectangle as 700.6652
+[TRACE] 2023-05-01 15:50:15,065 main            com.targetindia.programs.InterfaceDemo [  14] Area of this type is  700.6652 square units
+[TRACE] 2023-05-01 15:50:15,065 main            com.targetindia.programs.InterfaceDemo [  15] Perimeter of this type is  0.0 square units
