@@ -1,0 +1,19 @@
+[TRACE] 2023-05-01 12:40:22,449 main            com.targetindia.programs.LogggerDemo [  12] This is trace message
+[DEBUG] 2023-05-01 12:40:22,451 main            com.targetindia.programs.LogggerDemo [  13] This is debug message
+[ INFO] 2023-05-01 12:40:22,451 main            com.targetindia.programs.LogggerDemo [  14] This is info message
+[ WARN] 2023-05-01 12:40:22,452 main            com.targetindia.programs.LogggerDemo [  15] This is warn message
+[ERROR] 2023-05-01 12:40:22,452 main            com.targetindia.programs.LogggerDemo [  16] This is error message
+[TRACE] 2023-05-01 12:43:32,539 main            com.targetindia.programs.LogggerDemo [  11] This is trace message
+[DEBUG] 2023-05-01 12:43:32,540 main            com.targetindia.programs.LogggerDemo [  12] This is debug message
+[ INFO] 2023-05-01 12:43:32,540 main            com.targetindia.programs.LogggerDemo [  13] This is info message
+[ WARN] 2023-05-01 12:43:32,541 main            com.targetindia.programs.LogggerDemo [  14] This is warn message
+[ERROR] 2023-05-01 12:43:32,541 main            com.targetindia.programs.LogggerDemo [  15] This is error message
+[TRACE] 2023-05-01 13:28:38,792 main            com.targetindia.programs.model.Cat [  10] Cat is meowing....
+[TRACE] 2023-05-01 13:28:38,794 main            com.targetindia.programs.model.Dog [  10] Dog is barking...
+[TRACE] 2023-05-01 13:28:38,794 main            com.targetindia.programs.model.Lion [  10] Lion is roaring...
+[TRACE] 2023-05-01 13:28:38,796 main            com.targetindia.programs.AbstractDemo [  33] inside the process() , animal reference refers to an object of com.targetindia.programs.model.Cat
+[TRACE] 2023-05-01 13:28:38,796 main            com.targetindia.programs.model.Cat [  10] Cat is meowing....
+[TRACE] 2023-05-01 13:28:38,796 main            com.targetindia.programs.AbstractDemo [  33] inside the process() , animal reference refers to an object of com.targetindia.programs.model.Dog
+[TRACE] 2023-05-01 13:28:38,797 main            com.targetindia.programs.model.Dog [  10] Dog is barking...
+[TRACE] 2023-05-01 13:28:38,797 main            com.targetindia.programs.AbstractDemo [  33] inside the process() , animal reference refers to an object of com.targetindia.programs.model.Lion
+[TRACE] 2023-05-01 13:28:38,797 main            com.targetindia.programs.model.Lion [  10] Lion is roaring...
